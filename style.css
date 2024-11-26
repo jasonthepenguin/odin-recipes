@@ -1,0 +1,21 @@
+
+body {
+
+    background-color: wheat;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 1.6;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+li{
+    margin: 10px;
+}
+
+img {
+    border-radius: 24px;
+    
+}
